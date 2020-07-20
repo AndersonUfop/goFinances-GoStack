@@ -118,7 +118,7 @@ $ yarn start
 After the merge of your pull request is done, you can delete your branch.
 
 ## :memo: License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
