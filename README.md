@@ -7,7 +7,7 @@
   <img alt="GitHub language" src="https://img.shields.io/github/languages/top/AndersonUfop/goFinances-GoStack?color=%235636D3">
   <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AndersonUfop/goFinances-goStack?color=%235636D3">
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AndersonUfop/goFinances-goStack?color=blue">
-  <img alt="License" src="https://img.shields.io/github/license/AndersonUfop/goFinances-GoStack?color=blue">
+  <img alt="License" src="https://img.shields.io/apm/l/vim-mode?color=blue">
 </p>
 
 <p align="center">
