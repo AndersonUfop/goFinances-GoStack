@@ -52,7 +52,7 @@ Para acessar este link, você deve ter uma conta [Figma](https://www.figma.com/)
 - Uma instância do [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.io/)
 
-> Obs.: Eu recomendo usar docker
+**Obs.:** Eu recomendo usar docker
 
 **Clone o projeto e acesse a pasta gofinances-GoStack**
 
@@ -119,7 +119,7 @@ $ yarn start
 Após a mesclagem de sua solicitação pull, você pode excluir seu branch.
 
 ## :memo: Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENÇA](LICENÇA) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENÇA](LICENSE) para obter detalhes.
 
 
 Feito com 💜 por Anderson Fernandes 👋 [See my linkedin](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
