@@ -120,6 +120,11 @@ After the merge of your pull request is done, you can delete your branch.
 ## :memo: License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 Made with 💜 by Anderson Fernandes 👋 [See my linkedin](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
+
+---
+
+##  README versions
+
+[Portuguese 🇧🇷](./README.md)  |  [English 🇺🇸](./README-en.md)
