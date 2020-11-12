@@ -78,7 +78,8 @@ $ docker run --name gofinances-postgres -e POSTGRES_USER=docker -e POSTGRES_PASS
 
 # Crie um banco de dados com o nome gofinances-postgres
 
-# Certifique-se de que as chaves em 'ormconfig.json' para conectar com seu banco de dados, estejam configuradas corretamente.
+# Certifique-se de que as chaves em 'ormconfig.json' para conectar com seu banco de dados,
+# estejam configuradas corretamente.
 
 # Assim que os serviços estiverem em execução, execute as migrations
 $ yarn typeorm migration:run
